@@ -1,7 +1,7 @@
-# Quantum OSINT
+# Quantalyze
 
 ## Overview
-Quantum OSINT is a powerful open-source intelligence (OSINT) case management tool designed for investigators, cybersecurity professionals, and researchers. It provides an efficient way to organize, analyze, and generate reports for OSINT investigations.
+Quantalyze is a powerful open-source intelligence (OSINT) case management tool designed for investigators, cybersecurity professionals, and researchers. It provides an efficient way to organize, analyze, and generate reports for OSINT investigations.
 
 ## Features
 - **Case Management**: Create and manage case files for OSINT investigations.
@@ -23,8 +23,8 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/quantum-osint.git
-   cd quantum-osint
+   git clone https://github.com/CipherWorkZ/Quantalyze.git
+   cd Quantalyze
    ```
 
 2. Install dependencies:
@@ -40,13 +40,13 @@ Ensure you have the following installed:
    ```
 
 ## Usage
-1. Open the Quantum OSINT application.
+1. Open the Quantalyze application.
 2. Create a new case and add relevant OSINT data.
 3. Generate detailed reports for your investigations.
 4. View logs and track case updates.
 
 ## License
-Quantum OSINT is released under an open-source license but is not open for public contributions. See the LICENSE file for details.
+Quantalyze is released under an open-source license but is not open for public contributions. See the LICENSE file for details.
 
 ## Contributions
 Currently, this project does not accept external contributions, but suggestions and bug reports are welcome.
