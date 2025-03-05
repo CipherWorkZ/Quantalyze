@@ -39,8 +39,8 @@ Ensure you have the following installed:
    python app.py
    ```
 ![Demo Screenshot](https://i.imgur.com/NLtrFVX.png)
-
-
+![Demo Screenshot][(https://i.imgur.com/Ru9H1fN.png)
+https://i.imgur.com/Ru9H1fN.png
 ## Usage
 1. Open the Quantalyze application.
 2. Create a new case and add relevant OSINT data.
