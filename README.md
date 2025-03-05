@@ -38,6 +38,7 @@ Ensure you have the following installed:
    ```bash
    python app.py
    ```
+![Demo Screenshot](https://imgur.com/a/T76YLht)
 
 ## Usage
 1. Open the Quantalyze application.
