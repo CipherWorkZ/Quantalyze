@@ -48,7 +48,7 @@ Ensure you have the following installed:
 4. View logs and track case updates.
 
 ## License
-Quantalyze is released under an open-source license but is not open for public contributions. See the LICENSE file for details.
+Quantalyze is released under apache2 open-source license . See the LICENSE file for details.
 
 ## Contributions
 Currently, this project does not accept external contributions, but suggestions and bug reports are welcome.
